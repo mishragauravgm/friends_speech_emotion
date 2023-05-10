@@ -4,11 +4,13 @@ Speech emotion classification of audio files into 5 categories
 
 The dataset is MELD***(https://affective-meld.github.io). It consists of audio samples from Friends TV show.
 The task is to classify this audio samples(.wav) into one of 5 classes:
-1) Disgust
-2) Fear
-3) Happy
-4) Neutral
-5) Sad
+1) Anger
+2) Disgust
+3) Sadness
+4) Joy
+5) Neutral
+6) Surprise
+7) Fear
 
 # Deep Learning Analyses
 
